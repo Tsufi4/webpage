@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #0ab464;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+}
+
+#group-photo {
+    max-width: 100%;
+    object-fit: contain;
+    height: 600px;
+}
+
+#student-menu {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    
+}
+
+#student-menu a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #000000;
+    font-weight: 800;
+}
+
+.profile-card {
+    margin: 20px;
+    color: #f9f9f9;
+    padding: 20px;
+    border: 1px solid #30ba40;
+    border-radius: 14px;
+    background-color: #000000;
+    }
+    
+    .profile-card h2 {
+    color: #333;
+    }
+    
+footer {
+    text-align: center;
+    color: #f9f9f9;
+    padding: 20px;
+    background-color: #000000;
+    border-radius: 14px;
+    }

@@ -1,0 +1,30 @@
+[
+    {
+        "id": "student1",
+        "name": "tadeas l",
+        "bio": "madar",
+        "photo": "IMG_0076.jpeg"
+
+    },
+    {
+        "id": "student2",
+        "name": "robert c",
+        "bio": "vousac",
+        "photo": "IMG_0076.jpeg"
+
+    },
+    {
+        "id": "student3",
+        "name": "onda b",
+        "bio": "asiat",
+        "photo": "IMG_0273.jpeg"
+
+    },
+    {
+        "id": "student4",
+        "name": "marta b",
+        "bio": "mladoch",
+        "photo": "IMG_0081.jpeg"
+
+    }
+]
